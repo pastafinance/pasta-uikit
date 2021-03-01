@@ -2053,8 +2053,8 @@ var socials = [
         icon: "TelegramIcon",
         items: [
             {
-                label: "Coming Soon!",
-                href: "#",
+                label: "Announcements",
+                href: "https://t.me/PastaFinanceAnnouncements",
             }
         ],
     },
